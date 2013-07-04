@@ -1,4 +1,4 @@
 artisteer-orchard
 =================
 
-Artisteer plugin for Orchard Themes
+Orchard Theme plugin for Artisteer
